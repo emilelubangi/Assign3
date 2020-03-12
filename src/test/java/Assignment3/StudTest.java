@@ -1,4 +1,4 @@
-package Assignment3;
+package za.ac.cput.project;
 
 import org.junit.Assert;
 import org.junit.Test;
